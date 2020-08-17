@@ -2,9 +2,8 @@
 OpenCV Codes for various tasks
 
 # OPenCV Installation
-I personally use Ubuntu 16.04 64 bit x86, Hence all these steps are tried and tested on my system, I would suggest you to mirror my configuration for smoother experience with the course.
-Most online resources say to compile OpenCV 3 on Ubuntu, But since I am lazy I found out an ppa for OpenCV 3, ppa looks good, I just hope that it does not come back and bite me in my ass later.
-Here are the steps for installing openCV 3 on Ubuntu 16.04
+I personally use Ubuntu 16.04 64 bit x86,
+Here are the steps for installing openCV on Ubuntu 16.04
 ```
 sudo add-apt-repository ppa:lkoppel/opencv
 sudo apt-get update
